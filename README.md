@@ -1,1 +1,0 @@
-# deathloop-color-theme
